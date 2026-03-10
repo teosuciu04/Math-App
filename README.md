@@ -9,7 +9,7 @@ A full-stack mobile application built to help pupils master math theory through 
 * **Chapter-Specific Progress:** Track your completion and success rates within each individual chapter to identify specific areas for improvement.
 * **Instant Grading:** Get immediate feedback and score calculations the moment you finish a test session.
 * **Secure Authentication:** Safe user accounts, logins, and cloud-synced data powered by Supabase.
-* 
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** React Native / Expo
