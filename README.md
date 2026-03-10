@@ -4,13 +4,10 @@ A full-stack mobile application built to help pupils master math theory through 
 
 ## ✨ Key Features
 
-* **Customizable Quizzes:** Users can dynamically generate tests by selecting specific target chapters. Tests can be configured to contain 10, 20, or 40 questions, or scale up to include the total number of questions for each chapter for a comprehensive exam.
-* **Instant Grading & Feedback:** Automatically calculates and displays the user's grade immediately upon completing a test session.
-* **Granular Progress Tracking:** A dedicated dashboard allows users to visualize their learning journey. Progress is tracked and segmented by:
-    * Overall Grade
-    * Core Subjects (Algebra vs. Geometry)
-    * Individual Chapter mastery
-* **Secure Authentication:** Protected user accounts, login flows, and cloud-synced data storage.
+* **Customizable Quizzes:** Build targeted math theory tests by selecting specific chapters. Choose lengths of 10, 20, or 40 questions, or tackle a comprehensive review using every question in a chapter.
+* **Progress Tracking:** Monitor your learning journey through a detailed dashboard that tracks your Overall Grade, Core Subjects (Algebra & Geometry), and individual Chapter mastery.
+* **Instant Grading:** Get immediate feedback and score calculations the moment you finish a test session.
+* **Secure Authentication:** Safe user accounts, logins, and cloud-synced data powered by Supabase.
 
 ## 🛠️ Tech Stack
 
